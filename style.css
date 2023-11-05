@@ -51,6 +51,11 @@ li {
 	vertical-align: middle;
 }
 
+.right {
+	text-align: right;
+	/* vertical-align: middle; */
+}
+
 h1 {
 	font-family: 'PT Sans', sans-serif;
 	color: #393d3f;
